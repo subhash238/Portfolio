@@ -45,7 +45,7 @@ export function HeroSection() {
       <div className={styles.nameCont}>
         <p>Hi,</p>
         <p>
-          I'am <span>Subhash</span>{" "}
+          I am <span>Subhash Jha</span>{" "}
         </p>
         <p>Web Developer</p>
         <a
@@ -54,7 +54,7 @@ export function HeroSection() {
           rel="noopener noreferrer"
         >
           <Button variant="contained" className={classes.contactBtn}>
-            <RiDownloadLine style={{ fontSize: "18px", marginLeft: "10px" }} />{" "}
+            <RiDownloadLine style={{ fontSize: "18px", marginLeft: "10px",marginRight:"5px" }} />{" "}
             Resume
           </Button>
         </a>

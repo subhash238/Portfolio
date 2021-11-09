@@ -17,7 +17,7 @@ export function AboutSection() {
         </div>
         <div>
           <h2>
-            I'am <span>Subhash</span>{" "}
+            I am <span>Subhash Jha</span>{" "}
           </h2>
           <p>
             A web developer with excellent problem solving skills and ability to
