@@ -28,7 +28,7 @@ const projects = [
     name: "Disney+Hotstar Clone",
     img: "/hotstar.PNG",
     link: "https://thirsty-roentgen-4c4218.netlify.app/",
-    git: "https://github.com/arunkr741/project_hotstar",
+    git: "https://github.com/subhash238/project_hotstar",
     about:
       "Disney+ Hotstar is India's largest premium streaming platform with more than 100000 hours of drama and movies in 17 languages",
     stacks: [

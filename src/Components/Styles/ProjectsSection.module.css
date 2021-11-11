@@ -142,4 +142,10 @@ a {
     margin: auto;
     margin-top: 10px;
   }
+  .linkDiv{
+    margin: 10px 0;
+  }
+  .projectName{
+    margin: 20px 0 !important;
+  }
 }

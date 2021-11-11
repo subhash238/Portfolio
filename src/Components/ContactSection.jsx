@@ -24,7 +24,7 @@ export function ContactSection() {
           <AiOutlineGithub className={styles.gitIcon} />
         </a>
       </div>
-      <p className={styles.text}>Call me: 8368929791</p>{" "}
+      <p className={styles.text}>Phone: 8368929791</p>{" "}
       <p className={styles.text}>Email: krjhasub@gmail.com</p>
     </div>
   )
